@@ -1,0 +1,2 @@
+python3 ./psono/manage.py createuser user@test.com 4RcW65iuXC user@test.com
+python3 ./psono/manage.py createuser user@test.com IAYx6kKbFS user@test.com
